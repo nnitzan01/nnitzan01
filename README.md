@@ -1,4 +1,8 @@
-## Hi there, I'm Noam 👋
+# Hi there, I'm Noam 👋
+
+I'm a neuroscientist at NYU Langone and a neurotech enthuisiast.
+I specialize in large-scale neural data analysis, in-vivo electrophysiology, and sleep-state dynamics.
+Beyond the lab, I’m building bridges between science and entrepreneurship through NeuroNYC and Nucleate
 
 <!--
 **nnitzan01/nnitzan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
